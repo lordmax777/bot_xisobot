@@ -2,3 +2,5 @@ pytelegrambotapi
 flask
 apscheduler
 gunicorn
+gspread
+oauth2client
